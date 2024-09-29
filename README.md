@@ -8,5 +8,5 @@
 - 😄 Pronouns: Nick.
 - 🫡 If you have any questions or projects, contact me soon. Hope collaborations with you.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guardian521&show_icons=true&theme=radical)
 
